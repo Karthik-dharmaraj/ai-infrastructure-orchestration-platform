@@ -86,7 +86,7 @@ This setup replicates a **real-world cloud infrastructure inside a local lab env
 - Infrastructure visualization UI
 - API-driven orchestration interface
 
-### 🤖 AI Vision (Future Scope)
+###  AI Vision (Future Scope)
 - Natural language infrastructure control
 - AI-based deployment planning
 - Self-healing infrastructure automation
